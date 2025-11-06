@@ -1,0 +1,12 @@
+_site/
+**/.DS_Store
+
+assets/scaled_thumbnails/
+.Rproj.user
+.RData
+.Rhistory
+*.Rproj
+.bundle/
+
+rosm.cache/
+sources/

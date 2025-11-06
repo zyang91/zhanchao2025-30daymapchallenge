@@ -1,0 +1,34 @@
+# Build settings
+
+port: 4000
+markdown:  kramdown
+permalink: /:title
+# plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "MUSA 30 Day Map Challenge"
+description: "Powered by Jekyll and GitHub Pages"
+author:      "Mjumbe Poe"
+
+collections:
+  maps_2023:
+    output: true
+    # Using "maps" as the prefix so as to not break existing links to
+    # 2023 detail pages. Future years should simply use the name of the
+    # collection.
+    permalink: /maps-:title
+  maps_2024:
+    output: true
+    permalink: /:collection-:title
+  maps_2025:
+    output: true
+    permalink: /:collection-:title
+
+defaults:
+  - scope: { type: "maps_2023", path: "" }
+    values: { layout: "map" }
+  - scope: { type: "maps_2024", path: "" }
+    values: { layout: "map" }
+  - scope: { type: "maps_2025", path: "" }
+    values: { layout: "map" }
