@@ -7,9 +7,9 @@ permalink: /:title
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "MUSA 30 Day Map Challenge"
+title:		   "Zhanchao 30 Day Map Challenge"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Mjumbe Poe"
+author:      "Zhanchao Yang"
 
 collections:
   maps_2023:
@@ -26,9 +26,5 @@ collections:
     permalink: /:collection-:title
 
 defaults:
-  - scope: { type: "maps_2023", path: "" }
-    values: { layout: "map" }
-  - scope: { type: "maps_2024", path: "" }
-    values: { layout: "map" }
   - scope: { type: "maps_2025", path: "" }
     values: { layout: "map" }
