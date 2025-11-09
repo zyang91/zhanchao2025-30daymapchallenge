@@ -10,7 +10,7 @@ source: https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/d
 
 ## Hand-Drawn Map
 
-![Day 9 Binghamton University Hand Drawing Map](assets/thumbnails/2025/09-zhanchao-analog)
+![Day 9 Binghamton University Hand Drawing Map](/assets/thumbnails/2025/09-zhanchao-analog.png)
 
 This hand-drawn map accurately represents the spatial layout of Binghamton University's campus, but please forgive my poor hand-drawing skills.
 
