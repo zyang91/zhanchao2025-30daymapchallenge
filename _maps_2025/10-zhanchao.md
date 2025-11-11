@@ -10,7 +10,7 @@ source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/
 
 The visualization employs the anyflights package to access real-time flight data and combines it with spatial network analysis using igraph and tidygraph. The edge bundling technique creates smooth, curved paths that reduce visual clutter while highlighting major air traffic corridors and hub airports.
 
-![Day 10 Binghamton University Hand Drawing Map](assets/thumbnails/2025/10-zhanchao-air.png)
+![Day 10 US Flight Routes Map](assets/thumbnails/2025/10-zhanchao-air.png)
 
 **Acknowledgement:**
 
