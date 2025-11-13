@@ -3,7 +3,7 @@ day: 13
 creator: Zhanchao Yang
 title: Landsat 8 Imagery of Philadelphia
 thumbnail: /assets/thumbnails/2025/13-zhanchao-10minutes.png
-source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/day12-2125.R"
+source: "https://github.com/zyang91/30-day-map-challenge-2025/blob/main/scripts/day13-10minutes.ipynb"
 ---
 
 **Day 13 (10 minute map)**: I created a quick visualization of Philadelphia using Landsat 8 satellite imagery, overlaid with the city's administrative boundaries. This map was designed and produced in under 10 minutes, focusing on speed and simplicity while showcasing Philadelphia's urban footprint from space. The true-color composite from Landsat 8's RGB bands reveals the city's layout, with the Delaware River to the east and Schuylkill River winding through the city, highlighted by the yellow city boundary overlay.
