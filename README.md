@@ -5,7 +5,7 @@ Zhanchao Yang
 > Weitzman School of Design <br>
 > University of Pennsylvania
 
-**Source code**: https://github.com/zyang91/zhanchao2025-30daymapchallenge
+**Source code** for 2025 Challenge: https://github.com/zyang91/zhanchao2025-30daymapchallenge
 
 ## Acknowledgements
 
